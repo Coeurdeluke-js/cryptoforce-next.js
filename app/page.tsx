@@ -110,7 +110,7 @@ export default function HomePage() {
               <p className="text-base text-gray-300">
   Tenemos una <strong className="text-[#10d7be]">alianza explosiva</strong> con{' '}
   <Image
-    src="/images/ZoomEx-logo.png"
+    src="/images/zoomex-logo.png"
     alt="Zoomex Logo"
     width={100}
     height={28}
